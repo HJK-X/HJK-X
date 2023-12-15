@@ -24,7 +24,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
-<--
+<!--
 [Github Stats](https://github-readme-stats.vercel.app/api?username=HJK-X&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJK-X&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HJK-X/github-readme-stats)-->
 
